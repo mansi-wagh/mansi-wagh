@@ -1,22 +1,12 @@
-## Hi there 👋
 
-<!--
-**mansi-wagh/mansi-wagh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...<div align="center">
 
 # `> Mansi Wagh`
-### ML Engineer · AI & Data Science · Building Intelligent Systems
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mansi--wagh-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mansi-wagh)
 [![Email](https://img.shields.io/badge/Email-mansinwagh.100%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansinwagh.100@gmail.com)
-[![Location](https://img.shields.io/badge/Nashik%2C%20Maharashtra-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+
 
 </div>
 
@@ -27,11 +17,7 @@ Here are some ideas to get you started:
 ```python
 class MansiWagh:
     degree     = "B.Tech — Artificial Intelligence & Data Science"
-    college    = "K.K. Wagh Institute of Engineering Education & Research, Nashik"
-    cgpa       = 8.24
     year       = "Final Year (2023 – 2027)"
-    focus      = ["ML Pipelines", "Real-time AI Systems", "IoT + Embedded AI", "NLP"]
-    currently  = "Building GenoScope — a genetic mutation detection system using XGBoost & FastAPI"
     open_to    = ["ML Engineer Roles", "AI Research", "Full-time Opportunities (2027)"]
 ```
 
@@ -74,98 +60,70 @@ class MansiWagh:
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧬 GenoScope — Genetic Mutation Detection System
-> `Python · XGBoost · scikit-learn · FastAPI · BioPython`
-
-A full-stack bioinformatics ML system for clinical variant classification.
-- Engineered **93 sequence-based features** from raw DNA datasets
-- Achieved **~85% accuracy** on Sickle Cell data · **~82%** on Breast Cancer data
-- FastAPI endpoints with **sub-100ms inference latency**
-- End-to-end pipeline: sequence validation → mutation detection → variant classification → scalable API
-
----
-
-### 🗺️ Emergency Navigation System — Nashik City
-> `Django · Python · A* Algorithm · NetworkX · scikit-learn · Folium`
-
-Optimal emergency route navigator built for real urban road networks.
-- Implemented **A\* pathfinding** on NetworkX city graphs for optimal routing
-- Integrated **scikit-learn traffic prediction model** for real-time route adjustment
-- Interactive **Folium map visualization** with admin dashboard & SQLite backend
-
----
-
-### 📡 Dot-Dash — Morse Code Translator
-> `Flask · Python · Raspberry Pi · GPIO`
-
-Bridging software and hardware with real-time Morse code communication.
-- Full **GPIO hardware integration**: button input, LED output, buzzer feedback
-- Two-way **text ↔ Morse** conversion with adjustable timing
-- Live browser-based interface via Flask
-
----
-
-### 📰 News Categorizer
-> `Flask · Naive Bayes · TF-IDF · scikit-learn`
-
-BBC News article classifier across 5 categories (Business, Sports, Tech, Politics, Entertainment).
-- Built NLP pipeline with **Bag-of-Words + TF-IDF** vectorization
-- Integrated **probability visualization** for prediction confidence scoring
-
----
-
-### 💰 Tip Prediction System
-> `Django · XGBoost · SQLite`
-
-Django ML web app with trained XGBoost model for restaurant tip prediction.
-- User input forms, result visualization & SQLite backend
-
----
-
-## 💼 Experience
-
-**Machine Learning Research Intern** · *Suvidha Foundation* · Remote
-`Dec 2025 – Mar 2026`
-- Selected for ML & Quantum Computing research under Suvidha Foundation CSR Program
-- Developing plagiarism-free ML research contributions with structured documentation
-
----
-
-## 🏆 Achievements
-
-| Event | Outcome |
-|---|---|
-| 🏅 Convergence Hackathon 2025 (MIBCS) | Certificate of Achievement — Team Rudraksh |
-| 🏅 Myntra HackerRamp: WeForShe 2024 | **Phase 2 Qualified** — National Level, Team Trident |
-| 🏅 Smart India Hackathon 2024 | Qualified Internal College Round |
-| 🏅 CodeClash: DSA MasterMind | Qualified MCQ Elimination Round |
-| 🌐 Campus Ambassador | Techfest, IIT Bombay 2025 |
-
----
-
 ## 📊 GitHub Stats
-
+ 
 <div align="center">
-
-![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansi-wagh&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-wagh&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=mansi-wagh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&include_all_commits=true&count_private=true&rank_icon=github" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-wagh&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" height="175"/>
+ 
 </div>
-
+ 
+<br/>
+ 
+<div align="center">
+ 
+<img src="https://streak-stats.demolab.com?user=mansi-wagh&theme=dark&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&stroke=1F6FEB" width="700"/>
+ 
+</div>
+ 
+<br/>
+ 
+<div align="center">
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mansi-wagh&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&area_color=1F3A6E&hide_border=true&custom_title=Contribution%20Activity" width="95%"/>
+ 
+</div>
+ 
+<br/>
+ 
+<div align="center">
+ 
+<img src="https://github-profile-trophy.vercel.app/?username=mansi-wagh&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" width="95%"/>
+ 
+</div>
+ 
 ---
-
+ 
 <div align="center">
-
-*"Building ML systems that work in the real world — not just in notebooks."*
-
-**Open to ML/AI Engineer roles · Graduating 2027**
-
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F3A6E,100:58A6FF&height=100&section=footer&text=Let%27s%20Build%20Something%20Intelligent&fontSize=18&fontColor=C9D1D9&fontAlignY=65" width="100%"/>
+ 
 </div>
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+<div align="center">
+ 
+<img src="https://komarev.com/ghpvc/?username=mansi-wagh&label=Profile+Views&color=58A6FF&style=flat-square"/>
+ 
+<br/><br/>
+ 
+```
+╔══════════════════════════════════════════════════════╗
+║   "Building systems that work in the real world   ║
+║              — not just in books."               ║
+╚══════════════════════════════════════════════════════╝
+```
+ 
+**💼 Open to ML / AI Engineer Roles · Graduating June 2027**
+ 
+<br/>
+ 
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+&nbsp;
+[![Email](https://img.shields.io/badge/Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mansinwagh.100@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mansi-wagh)
+ 
+</div>
+
