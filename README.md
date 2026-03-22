@@ -18,7 +18,6 @@
 class MansiWagh:
     degree     = "B.Tech — Artificial Intelligence & Data Science"
     year       = "Final Year (2023 – 2027)"
-    open_to    = ["ML Engineer Roles", "AI Research", "Full-time Opportunities (2027)"]
 ```
 
 > Passionate about building **end-to-end ML systems** — from raw data pipelines to deployed APIs. I thrive at the intersection of machine learning, embedded systems, and real-world problem solving.
