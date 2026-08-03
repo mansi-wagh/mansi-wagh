@@ -123,13 +123,13 @@ C:\Users\Mansi>
 
 ## 📜 Certifications
 
-| Certification | Credential |
-|:--------------|:----------:|
-| Generative AI with Large Language Models | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/coursera.pdf) |
-| Data Science, ML, DL & NLP Bootcamp | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/UDEMY.pdf) |
-| Full Stack Web Development | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/python.pdf) |
-| Google Cloud Study Jams | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/GoogleCloudStudyJams.pdf) |
+- Generative AI with Large Language Models
+- Data Science, Machine Learning, Deep Learning & NLP Bootcamp
+- Full Stack Web Development
+- Google Cloud Study Jams
 
+  **All Certificates:**  
+https://github.com/mansi-wagh/mansi-wagh
 ---
 
 ##  GitHub Analytics
