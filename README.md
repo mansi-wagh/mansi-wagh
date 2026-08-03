@@ -125,45 +125,20 @@ C:\Users\Mansi>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
-  <!-- Stats & Top Languages -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mansi-wagh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mansi's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-wagh&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-wagh&theme=dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Activity Graph -->
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mansi-wagh&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</div>
-
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mansi-wagh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=mansi-wagh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
+
 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mansi-wagh/mansi-wagh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/mansi-wagh/mansi-wagh/main/github-user-contribution-grid-snake.svg" alt="Contribution Snake" />
 </div>
+
 
 ---
 
