@@ -8,8 +8,6 @@
 ## 👩‍💻 Who Am I
 
 ```cmd
-Microsoft Windows [Version 11.0.26100]
-(c) Microsoft Corporation. All rights reserved.
 
 C:\Users\Mansi> whoami
 
@@ -149,6 +147,16 @@ C:\Users\Mansi>
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mansi-wagh&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=mansi-wagh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://komarev.com/ghpvc/?username=mansi-wagh&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 🐍 Contribution Snake
