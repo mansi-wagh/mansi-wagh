@@ -89,10 +89,10 @@ C:\Users\Mansi>
 ---
 
 ### 📊 ChartLieDetector AI
-> AI-powered platform that identifies misleading data visualizations using computer vision, explainable AI, and an 8-rule audit engine.
+> AI-powered platform that identifies misleading data visualizations using explainable AI, and an 8-rule audit engine.
 
 **Features:**
-- Chart Analysis with Gemini Vision VLM
+- Chart Analysis with Gemini AI
 - Explainable Lie Score (0-100)
 - 7-Deception Category Audit Engine
 - PDF Audit Reports
@@ -116,16 +116,15 @@ C:\Users\Mansi>
 
 | Certification | Credential |
 |:--------------|:----------:|
-| Generative AI with Large Language Models | 📄 [View Certificate](README/GenerativeAI.pdf) |
-| Data Science, ML, DL & NLP Bootcamp | 📄 [View Certificate](README/DSML_Bootcamp.pdf) |
-| Full Stack Web Development | 📄 [View Certificate](README/FullStack.pdf) |
+| Generative AI with Large Language Models | 📄 [View Certificate](README/coursera.pdf) |
+| Data Science, ML, DL & NLP Bootcamp | 📄 [View Certificate](README/UDEMY.pdf) |
+| Full Stack Web Development | 📄 [View Certificate](README/python.pdf) |
 | Google Cloud Study Jams | 📄 [View Certificate](README/GoogleCloudStudyJams.pdf) |
 
 ---
 
 ## 📊 GitHub Analytics
 
-![](https://github-readme-stats.shion.dev/api?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mansi-wagh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -136,7 +135,7 @@ C:\Users\Mansi>
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mansi-wagh/mansi-wagh/main/github-user-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://snk-badge.vercel.app/api/snake/mansi-wagh" alt="Contribution Snake" />
 </div>
 
 
