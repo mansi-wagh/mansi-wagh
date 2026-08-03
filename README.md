@@ -34,7 +34,7 @@ C:\Users\Mansi>
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -80,9 +80,9 @@ C:\Users\Mansi>
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🤖 RecruitIQ AI
+###  RecruitIQ AI
 > End-to-end AI recruitment platform that automates resume screening, candidate matching, and interview preparation using Machine Learning and Retrieval-Augmented Generation (RAG).
 
 **Features:**
@@ -97,7 +97,7 @@ C:\Users\Mansi>
 
 ---
 
-### 📊 ChartLieDetector AI
+###  ChartLieDetector AI
 > AI-powered platform that identifies misleading data visualizations using explainable AI, and an 8-rule audit engine.
 
 **Features:**
@@ -114,10 +114,10 @@ C:\Users\Mansi>
 
 ## 🏆 Achievements
 
-- 🏅 Top 100 among 700+ teams in **SUNHACKS 2K26 International AI Hackathon**
-- 🌟 Qualified for **Myntra HackerRamp – WeForShe 2024 (Phase 2)**
-- 💡 Solved **50+ DSA Problems** on LeetCode
-- 🎨 Active participant in college Painting and Dance Competitions
+-  Top 100 among 700+ teams in **SUNHACKS 2K26 International AI Hackathon**
+-  Qualified for **Myntra HackerRamp – WeForShe 2024 (Phase 2)**
+-  Solved **50+ DSA Problems** on LeetCode
+-  Active participant in college Painting and Dance Competitions
 
 ---
 
@@ -132,9 +132,9 @@ C:\Users\Mansi>
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
-![](https://streak-stats.demolab.com/?user=mansi-wagh&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=mansi-wagh&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
