@@ -40,34 +40,43 @@ C:\Users\Mansi>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**AI & Machine Learning**  
+**AI, Machine Learning & RAG**  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0066CC?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=flat-square)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-4169E1?style=flat-square)
 
-**Backend & Web Frameworks**  
+**Frameworks & Libraries**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-005500?style=flat-square)
 
-**Databases**  
+**AI Tools & Databases**  
+![Google Gemini API](https://img.shields.io/badge/Google_Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6A5ACD?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Tools & Environment**  
+**Web Development**  
+![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Tools, Platforms & Concepts**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+
 
 ---
 
@@ -116,10 +125,10 @@ C:\Users\Mansi>
 
 | Certification | Credential |
 |:--------------|:----------:|
-| Generative AI with Large Language Models | 📄 [View Certificate](README/coursera.pdf) |
-| Data Science, ML, DL & NLP Bootcamp | 📄 [View Certificate](README/UDEMY.pdf) |
-| Full Stack Web Development | 📄 [View Certificate](README/python.pdf) |
-| Google Cloud Study Jams | 📄 [View Certificate](README/GoogleCloudStudyJams.pdf) |
+| Generative AI with Large Language Models | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/coursera.pdf) |
+| Data Science, ML, DL & NLP Bootcamp | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/UDEMY.pdf) |
+| Full Stack Web Development | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/python.pdf) |
+| Google Cloud Study Jams | 📄 [View Certificate](https://github.com/mansi-wagh/mansi-wagh/blob/main/README/GoogleCloudStudyJams.pdf) |
 
 ---
 
@@ -127,17 +136,6 @@ C:\Users\Mansi>
 
 ![](https://streak-stats.demolab.com/?user=mansi-wagh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mansi-wagh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-
-
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://snk-badge.vercel.app/api/snake/mansi-wagh" alt="Contribution Snake" />
-</div>
-
 
 ---
 
@@ -169,4 +167,3 @@ C:\Users\Mansi>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mansi-wagh&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-```
