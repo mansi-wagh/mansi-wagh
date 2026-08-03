@@ -2,23 +2,30 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs every midnight
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+# REQUIRED: Explicit write permissions for modern GitHub Actions
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: mansi-wagh
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake SVG to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
