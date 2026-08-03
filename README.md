@@ -129,21 +129,24 @@ C:\Users\Mansi>
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mansi-wagh&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-wagh&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <!-- Stats & Top Languages -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mansi-wagh&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mansi's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansi-wagh&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="700" src="https://streak-stats.demolab.com?user=mansi-wagh&theme=github-dark&hide_border=true" alt="Streak Stats"/>
+  <!-- Streak Stats -->
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=mansi-wagh&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mansi-wagh&theme=github-dark&hide_border=true" alt="Activity Graph"/>
+  <!-- Activity Graph -->
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mansi-wagh&theme=github-dark&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -151,7 +154,7 @@ C:\Users\Mansi>
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mansi-wagh/mansi-wagh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/mansi-wagh/mansi-wagh/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
 
 ---
